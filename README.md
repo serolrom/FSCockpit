@@ -9,7 +9,8 @@ What I'm currently attempting to achieve. These guidelines come as conclusions o
 
 
 ## Change log  
-2022-04-19: I create this github repo to keep all the project stuff in one place.  
+2022-04-19:  
+I create this github repo to keep all the project stuff in one place.  I buy some components: rotary encoders, arduino board and some cable, that I will receive at home in a cuple of days.
 
 
 
