@@ -9,6 +9,7 @@ BaseCode.ino code has been copied from https://www.youtube.com/watch?v=wkY1NsbWj
   - Joystick
   - Keypad
   
+Next steps described in: https://create.arduino.cc/projecthub/electropeak/getting-started-w-nodemcu-esp8266-on-arduino-ide-28184f    
 BOARD DEFINITION:
 Arduino software needs to know this board definition, so we have to make it available for the software. For this:
 - Go to File->Preferences->Additional Boards Manager URLs and insert this url:
