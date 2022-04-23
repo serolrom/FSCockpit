@@ -12,6 +12,13 @@ What I'm currently attempting to achieve. These guidelines come as conclusions o
 2022-04-19:  
 I create this github repo to keep all the project stuff in one place.  I buy some components: rotary encoders, arduino board and some cable, that I will receive at home in a cuple of days.
 
+2022-04-21: 
+I received the parts I ordered; I'll get hands dirty on the weekend.
+
+2022-04-23:
+After some DCS flying, I got the project started by soldering the arduino pins.
+
+
 
 
 
