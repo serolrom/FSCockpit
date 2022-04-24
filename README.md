@@ -19,6 +19,9 @@ I received the parts I ordered; I'll get hands dirty on the weekend.
 After some DCS flying, I got the project started by soldering the arduino pins.  
 https://github.com/serolrom/FSCockpit/blob/main/pics/IMG_20220423_Soldered_Ardu.jpg  
 
+2022-04-24:
+Can't get the darn thing to work. I have tried out some videos to make a generic game controller, then switched to more specific products like Mobiflight, but could not get any of them to even work slightly.
+
 
 
 
