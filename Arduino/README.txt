@@ -27,6 +27,9 @@ In Arduino software: Tools->Port-> select the port.
 Other references: 
 https://www.youtube.com/watch?v=wkY1NsbWj5I&t=1197s (programming button matrix, but didn't make it work yet)
 
+------------------------------
+Use ARDUINO CORE with NODEMCU: https://www.youtube.com/watch?v=Q6NBnPfPhWE
+
 
 
 
