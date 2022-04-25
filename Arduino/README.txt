@@ -3,7 +3,7 @@ Search for ***** NODEMCU *****. Also ESP8266
 
 BaseCode.ino code has been copied from https://www.youtube.com/watch?v=wkY1NsbWj5I&t=333s
 
-- Install driver CH340
+- Install driver CH340 (search around, or head to Silicon Labs - www.silabs.com )
 - Install Arduino software
 - Install the following Arduino libraries. Menu Sketch->Include Library->Manage libraries; search and install the following ones, then INCLUDE them.
   - Joystick
